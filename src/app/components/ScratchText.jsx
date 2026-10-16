@@ -294,7 +294,7 @@ export default function ScratchText({ onReveal }) {
       className="relative inline-block overflow-hidden rounded-md select-none mt-12"
       style={{
         width: "355px",
-        height: "190px",
+        height: "140px",
       }}
     >
       {/* Hidden Text */}

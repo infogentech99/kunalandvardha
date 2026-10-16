@@ -47,7 +47,7 @@ export default function Events() {
 
         {/* Content */}
         <div className="relative z-10 flex flex-col md:mt-10 mt-5">
-          <h2 className="text-white cormorant-garamond text-[23px] md:text-3xl lg:text-[36px] font-semibold md:px-0 px-6">
+          <h2 className="text-white cormorant-garamond text-[23.5px] md:text-3xl lg:text-[36px] font-semibold md:px-0 px-6">
             The Whimsy Carnival
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
@@ -74,7 +74,7 @@ export default function Events() {
 
         {/* Content */}
         <div className="relative z-10 flex flex-col md:mt-10 mt-2">
-          <h2 className="text-white cormorant-garamond text-[26.5px] md:text-3xl lg:text-[40px] font-semibold md:px-0 px-6">
+          <h2 className="text-white cormorant-garamond text-[27px] md:text-3xl lg:text-[40px] font-semibold md:px-0 px-6">
             The Wedding Vows
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
