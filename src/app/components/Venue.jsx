@@ -23,7 +23,7 @@ export default function Venue() {
       
 
       <div
-        className="relative mx-auto flex max-w-[355px] mt-10 flex-col items-center overflow-hidden rounded-[32px] border border-[#d9c18a] px-6 py-10 text-center text-[#fff1c9] shadow-[0_12px_35px_rgba(91,104,65,0.15)]"
+        className="relative mx-auto flex max-w-[355px] md:max-w-[455px] mt-10 flex-col items-center overflow-hidden rounded-[32px] border border-[#d9c18a] px-6 py-10 text-center text-[#fff1c9] shadow-[0_12px_35px_rgba(91,104,65,0.15)]"
         style={{
           background:
             "linear-gradient(160deg, #819977 0%, #718c65 48%, #31583b 100%)",
@@ -39,7 +39,7 @@ export default function Venue() {
         </div>
 
         {/* Blessing message */}
-        <div className="relative z-10 cormorant-garamond text-[13px] italic leading-[1.8] text-[#fff5d9]">
+        <div className="relative z-10 cormorant-garamond text-[13px] md:text-[16px] italic leading-[1.8] text-[#fff5d9]">
           <p>
             Sealed with sacred vows, blessed by two loving families,and guided
             by the divine — we begin our forever with grateful and joyful

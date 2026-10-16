@@ -15,18 +15,18 @@ export default function Events() {
         <span className="h-px w-11 bg-gradient-to-l from-transparent to-[#d9a64e]" />
       </div>
 
-      <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[520px] md:min-h-[600px] px-10 py-3 md:px-25 md:mt-20 mt-8">
+      <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[520px] md:min-h-[1000px] px-10 py-3 md:px-25 md:mt-20 mt-8">
         <div className="absolute inset-0 bg-[url('/assets/event1.webp')] bg-cover bg-center bg-no-repeat"></div>
 
         {/* Content */}
-        <div className="relative z-10 flex flex-col md:mt-30 mt-12">
+        <div className="relative z-10 flex flex-col md:mt-50 mt-12">
           <h2 className="text-white cormorant-garamond text-[28px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
             Midnight Bloom
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
             (A Evening of Love in Full Bloom)
           </p>
-          <h2 className="text-white cormorant-garamond text-[16px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
+          <h2 className="text-white cormorant-garamond text-[16px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6">
             Engagement & Cocktail Celebration
           </h2>
           <p className="text-white cormorant-garamond text-[16px] md:text-base mt-2">
@@ -46,14 +46,14 @@ export default function Events() {
         <div className="absolute inset-0 bg-[url('/assets/event3.webp')] bg-cover bg-center bg-no-repeat"></div>
 
         {/* Content */}
-        <div className="relative z-10 flex flex-col md:mt-30 mt-5">
-          <h2 className="text-white cormorant-garamond text-[23px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
+        <div className="relative z-10 flex flex-col md:mt-10 mt-5">
+          <h2 className="text-white cormorant-garamond text-[23px] md:text-3xl lg:text-[36px] font-semibold md:px-0 px-6">
             The Whimsy Carnival
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
             (A Little Sunshine, A Lot of Magic)
           </p>
-          <h2 className="text-white cormorant-garamond text-[16px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
+          <h2 className="text-white cormorant-garamond text-[16px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6">
             Haldi Celebration
           </h2>
           <p className="text-white cormorant-garamond text-[16px] md:text-base mt-2">
@@ -73,14 +73,14 @@ export default function Events() {
         <div className="absolute inset-0 bg-[url('/assets/event2.webp')] bg-cover bg-center bg-no-repeat"></div>
 
         {/* Content */}
-        <div className="relative z-10 flex flex-col md:mt-30 mt-2">
-          <h2 className="text-white cormorant-garamond text-[26.5px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
+        <div className="relative z-10 flex flex-col md:mt-10 mt-2">
+          <h2 className="text-white cormorant-garamond text-[26.5px] md:text-3xl lg:text-[40px] font-semibold md:px-0 px-6">
             The Wedding Vows
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
             (Two hearts. One promise.)
           </p>
-          <h2 className="text-white cormorant-garamond text-[16px] md:text-3xl lg:text-[46px] font-semibold md:px-0 px-6">
+          <h2 className="text-white cormorant-garamond text-[16px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6">
             Forever
           </h2>
           <p className="text-white cormorant-garamond text-[16px] md:text-base mt-2">
