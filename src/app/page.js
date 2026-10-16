@@ -10,6 +10,7 @@ import Story from "./components/Story";
 import Events from "./components/Events";
 import Venue from "./components/Venue";
 import RoseHeroTemp from "./components/RoseHeroTemp";
+import IntroVideo from "./components/IntroVideo";
 export default function Home() {
 
   const audioRef = useRef(null);
@@ -69,7 +70,7 @@ export default function Home() {
       >
         {playing ? "⏸" : "▶"}
       </button>
-
+ {/* <IntroVideo /> */}
       <audio ref={audioRef} src="/assets/song.mp3" loop preload="auto" playsInline />
         <div className="pointer-events-none fixed inset-0 z-20 h-screen w-screen">
           <RoseHeroTemp />
