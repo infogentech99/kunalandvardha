@@ -109,7 +109,7 @@ export default function MarriageCountdown() {
           </div>
         </div>
          <p className="pinyon-script-regular text-[24px] tracking-[2px] text-[#C78617] md:text-xl md:tracking-[4px] mt-6 text-center">
-          November 12, 2026
+          November 11 & 12, 2026
         </p>
       </div>
     </>

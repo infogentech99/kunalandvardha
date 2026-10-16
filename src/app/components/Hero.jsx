@@ -6,7 +6,7 @@ export default function Hero() {
           The Wedding of
         </p>
         <h2 className="text-[#C78617] pinyon-script-regular text-center md:text-4xl text-[38px] lg:text-[60px] leading-tight mt-8">
-          Kunal Mehrotra
+        Vardha
         </h2>
 
         <h2 className="text-[#C78617] pinyon-script-regular text-center text-[38px] sm:text-7xl lg:text-[60px] leading-tight">
@@ -14,7 +14,7 @@ export default function Hero() {
             &
           </span>
           <br />
-          Vardha Munjal
+            Kunal 
         </h2>
       </div>
 
@@ -51,7 +51,7 @@ export default function Hero() {
             className=" text-[43px] italic leading-[1.25] text-[#d99019] sm:text-[48px] pinyon-script-regular"
             
           >
-            Vardha Munjal
+            Vardha
           </h1>
 
           <p className="my-3 cormorant-garamond text-[21px] italic text-[#cf8b21]">
@@ -62,7 +62,7 @@ export default function Hero() {
             className="text-[48px] italic leading-[1.1] text-[#d99019] sm:text-[54px] pinyon-script-regular"
            
           >
-           Kunal Mehrotra
+           Kunal
           </h2>
         </div>
 

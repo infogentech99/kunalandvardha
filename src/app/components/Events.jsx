@@ -24,13 +24,13 @@ export default function Events() {
             Midnight Bloom
           </h2>
           <p className="text-white pinyon-script-regular text-[16px] md:text-base">
-            (A Evening of Love in Full Bloom)
+            (An Evening of Love in Full Bloom)
           </p>
           <h2 className="text-white cormorant-garamond text-[16px] md:text-2xl lg:text-[22px] font-semibold md:px-0 px-6">
             Engagement & Cocktail Celebration
           </h2>
           <p className="text-white cormorant-garamond text-[16px] md:text-base mt-2">
-            11 November 2026 <br />
+            11th November 2026 <br />
             8:00 pm onwards
           </p>
 
@@ -57,7 +57,7 @@ export default function Events() {
             Haldi Celebration
           </h2>
           <p className="text-white cormorant-garamond text-[16px] md:text-base mt-2">
-            12 November 2026 <br />
+            12th November 2026 <br />
             11:00 am onwards
           </p>
 
@@ -84,7 +84,7 @@ export default function Events() {
             Forever
           </h2>
           <p className="text-white cormorant-garamond text-[16px] md:text-base mt-2">
-            12 November 2026 <br />
+            12th November 2026 <br />
             8:00 pm onwards
           </p>
 

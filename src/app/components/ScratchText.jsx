@@ -310,8 +310,7 @@ export default function ScratchText({ onReveal }) {
         </p>
 
         <p className="text-[26px] leading-tight tracking-[1px] text-[#C78617] md:text-5xl">
-          November <span className="mx-2">|</span> 12{" "}
-          <span className="mx-2">|</span> 2026
+          11<sup className="text-[16px]">th</sup>&12<sup className="text-[16px]">th</sup> November 2026
         </p>
 
         <p className="cormorant-garamond text-[11px] tracking-[2px] text-[#C78617] md:text-xl md:tracking-[4px] mt-3">

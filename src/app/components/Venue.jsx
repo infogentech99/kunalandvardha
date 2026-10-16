@@ -75,20 +75,24 @@ export default function Venue() {
             Kunal 
           </h2>
         </div>
-
+<div className="my-8 flex w-full items-center justify-center gap-3">
+          <span className="h-px w-12 bg-[#e6d09a]/80" />
+          <span className="text-[15px] text-[#f8df96]">✦</span>
+          <span className="h-px w-12 bg-[#e6d09a]/80" />
+        </div>
         {/* Wedding date */}
-        <p className="mt-8 font-serif text-[9px] font-medium tracking-[5px] text-[#f4e6c0]">
+        {/* <p className="mt-8 font-serif text-[9px] font-medium tracking-[5px] text-[#f4e6c0]">
           11 · 07 · 2026
-        </p>
+        </p> */}
 
         {/* Footer divider */}
-        <div className="mt-10 h-px w-full bg-[#d8d6a8]/35" />
+        {/* <div className="mt-10 h-px w-full bg-[#d8d6a8]/35" /> */}
 
         {/* Credits */}
-        <div className="relative z-10 mt-6 cormorant-garamond text-[9px] font-semibold uppercase leading-[1.8] tracking-[3px] text-[#e1d9b7]">
+        {/* <div className="relative z-10 mt-6 cormorant-garamond text-[9px] font-semibold uppercase leading-[1.8] tracking-[3px] text-[#e1d9b7]">
           <p>Made with love for Vardha  &</p>
           <p>Kunal</p>
-        </div>
+        </div> */}
 
         {/* <p
           className="mt-1 text-[27px] italic text-[#f3d17c]"
