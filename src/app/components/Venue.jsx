@@ -39,7 +39,7 @@ export default function Venue() {
         </div>
 
         {/* Blessing message */}
-        <div className="relative z-10 cormorant-garamond text-[13px] md:text-[16px] italic leading-[1.8] text-[#fff5d9]">
+        <div className="relative z-10  text-[13px] md:text-[16px] italic cormorant-garamond leading-[1.8] text-[#fff5d9]">
           <p>
             Sealed with sacred vows, blessed by two loving families,and guided
             by the divine — we begin our forever with grateful and joyful
@@ -52,7 +52,7 @@ export default function Venue() {
         </div>
 
         {/* Divider */}
-        <div className="my-8 flex w-full items-center justify-center gap-3">
+        <div className="my-4 flex w-full items-center justify-center gap-3">
           <span className="h-px w-12 bg-[#e6d09a]/80" />
           <span className="text-[15px] text-[#f8df96]">✦</span>
           <span className="h-px w-12 bg-[#e6d09a]/80" />
@@ -75,15 +75,13 @@ export default function Venue() {
             Kunal 
           </h2>
         </div>
-<div className="my-8 flex w-full items-center justify-center gap-3">
+<div className="my-3 flex w-full items-center justify-center gap-3">
           <span className="h-px w-12 bg-[#e6d09a]/80" />
           <span className="text-[15px] text-[#f8df96]">✦</span>
           <span className="h-px w-12 bg-[#e6d09a]/80" />
         </div>
         {/* Wedding date */}
-        {/* <p className="mt-8 font-serif text-[9px] font-medium tracking-[5px] text-[#f4e6c0]">
-          11 · 07 · 2026
-        </p> */}
+        
 
         {/* Footer divider */}
         {/* <div className="mt-10 h-px w-full bg-[#d8d6a8]/35" /> */}
@@ -94,14 +92,27 @@ export default function Venue() {
           <p>Kunal</p>
         </div> */}
 
-        {/* <p
-          className="mt-1 text-[27px] italic text-[#f3d17c]"
-          style={{ fontFamily: "'Pinyon Script', cursive" }}
+        <p
+          className="mt-1 text-[16px] italic text-[#f3d17c] cormorant-garamond"
+        
         >
-          design diva
+          With Love, Bleassings & Warm Regards,
+        </p>
+<p className="mt-2 text-[13px] md:text-[16px] italic cormorant-garamond leading-[1.8] text-[#fff5d9]">
+  Vrinda Munjal <br/>
+          The Munjals · The Sachdevas · The Tanejas · The Dodas
         </p>
 
-        <a
+<div className="my-3 flex w-full items-center justify-center gap-3">
+           <span className="text-[15px] text-[#f8df96]">✦</span>
+           <span className="h-px w-12 bg-[#e6d09a]/80" />
+          <span className="text-[15px] text-[#f8df96]">✦</span>
+          
+        </div>
+
+
+
+        {/* <a
           href="tel:+919549430748"
           className="relative z-10 mt-3 font-serif text-[12px] tracking-[2px] text-[#f4e8c7] transition-opacity hover:opacity-75"
         >
