@@ -61,9 +61,8 @@ export default function IntroVideo() {
 
   return (
     <div
-      className={`fixed inset-0 z-[999999] overflow-hidden transition-opacity duration-700 ${
-        hide ? "pointer-events-none opacity-0" : "opacity-100"
-      }`}
+      className={`fixed inset-0 z-[999999] overflow-hidden transition-opacity duration-700 ${hide ? "pointer-events-none opacity-0" : "opacity-100"
+        }`}
       style={{
         width: "100%",
         height: "100dvh",
@@ -77,15 +76,13 @@ export default function IntroVideo() {
           aria-label="Play intro video"
           className="absolute inset-0 z-20 h-full w-full cursor-pointer border-0 p-0"
           style={{
-            backgroundImage: "url('/assets/hero-poster.webp')",
+            backgroundImage: "url('/assets/hero-poster.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
           }}
         >
-          <span className="absolute left-1/2 top-1/2 flex h-20 w-20 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-white/80 bg-black/30 text-3xl text-white shadow-lg backdrop-blur-sm transition-transform duration-300 hover:scale-110 md:h-24 md:w-24">
-            ▶
-          </span>
+
         </button>
       )}
 
@@ -95,9 +92,8 @@ export default function IntroVideo() {
         muted
         preload="auto"
         onEnded={handleEnd}
-        className={`absolute inset-0 h-full w-full object-cover object-center ${
-          started ? "z-10" : "z-0"
-        }`}
+        className={`absolute inset-0 h-full w-full object-cover object-center ${started ? "z-10" : "z-0"
+          }`}
         style={{
           backgroundColor: "#faf4e8",
         }}
