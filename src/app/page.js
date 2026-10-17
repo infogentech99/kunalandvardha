@@ -70,7 +70,7 @@ export default function Home() {
       >
         {playing ? "⏸" : "▶"}
       </button>
- {/* <IntroVideo /> */}
+ <IntroVideo />
       <audio ref={audioRef} src="/assets/song.mp3" loop preload="auto" playsInline />
         <div className="pointer-events-none fixed inset-0 z-20 h-screen w-screen">
           <RoseHeroTemp />
